@@ -1,4 +1,4 @@
-# REAAL-TIME-CHAT-APP
+# REAL-TIME-CHAT-APP
 Real time chat app using mernstack technology
 
 
